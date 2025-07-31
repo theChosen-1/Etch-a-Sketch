@@ -19,7 +19,7 @@ function createGrid(number) {
     const squares = document.querySelectorAll(".square");
     squares.forEach(square => {
         square.addEventListener("mouseenter", () => {
-            square.style.backgroundColor = black;
+            square.style.backgroundColor = "black";
         });
     });
 }
