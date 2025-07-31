@@ -13,3 +13,15 @@
     border: 1px solid black;
     box-sizing: border-box;
 }
+
+.btnContainer {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 8px;
+}
+
+button {
+    width: 200px;
+    height: 50px;
+    font-size: x-large;
+}
