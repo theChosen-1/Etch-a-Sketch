@@ -2,7 +2,9 @@
 
 A browser-based Etch-a-Sketch drawing application built with vanilla JavaScript, HTML, and CSS.
 
-## Live Demo
+<img src="etchAsketch.png" width="50%" />
+
+## Live Demo (Open in Chrome)
 
 [View Live Demo](https://thechosen-1.github.io/Etch-a-Sketch/)
 
